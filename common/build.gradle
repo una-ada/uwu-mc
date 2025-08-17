@@ -1,8 +1,9 @@
 plugins {
     id 'multiloader-common'
-    id 'net.neoforged.moddev'
+    // id 'net.neoforged.moddev'
 }
 
+/*
 neoForge {
     neoFormVersion = neo_form_version
     // Automatically enable AccessTransformers if the file exists
@@ -15,6 +16,7 @@ neoForge {
         mappingsVersion = parchment_version
     }
 }
+ */
 
 dependencies {
     compileOnly group: 'org.spongepowered', name: 'mixin', version: '0.8.5'
