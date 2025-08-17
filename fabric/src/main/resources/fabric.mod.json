@@ -16,7 +16,7 @@
     "environment": "*",
     "entrypoints": {
         "main": [
-            "com.example.examplemod.ExampleMod"
+          "dev.xn__z7x.uwu.uwuFabric"
         ]
     },
     "mixins": [
